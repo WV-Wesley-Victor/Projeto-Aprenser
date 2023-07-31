@@ -3,7 +3,7 @@
  
 ![Captura de Tela (50)](https://github.com/WV-Wesley-Victor/Projeto-Aprenser/assets/137107062/90e6bddb-b3b4-4124-908f-243d75ee5a26)
 <p align="center">
-  <a href="https://wv-wesley-victor.github.io/Avancando-com-CSS/" target="_blank">Clique aqui para visitar o projeto</a>
+  <a href="https://wv-wesley-victor.github.io/Projeto-Aprenser/" target="_blank">Clique aqui para visitar o projeto</a>
 </p>
 
 ## Descrição
