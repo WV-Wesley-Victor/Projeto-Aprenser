@@ -1,0 +1,19 @@
+Esse trecho de código é conhecido como um "CSS Reset" ou "CSS Normalize" e é usado para criar uma base consistente para os estilos de todos os elementos HTML em um documento.
+
+Vamos explicar cada parte do código:
+
+- *: O seletor * é um seletor universal, que seleciona todos os elementos HTML presentes no documento.
+
+- *::after e *::before: São pseudo-elementos que selecionam o conteúdo adicionado antes (before) e depois (after) do conteúdo de um elemento HTML. Neste caso, eles também estão selecionando todos os elementos.
+
+- {}: As chaves delimitam o bloco de regras CSS que será aplicado aos elementos selecionados.
+
+Agora, sobre as propriedades CSS utilizadas:
+
+- margin: 0;: Define a margem externa de todos os elementos como 0, ou seja, nenhum espaço em branco será adicionado ao redor dos elementos. Isso ajuda a eliminar as margens padrão aplicadas por alguns navegadores a certos elementos.
+
+- padding: 0;: Define o preenchimento interno de todos os elementos como 0, removendo qualquer preenchimento padrão que possa ser aplicado por alguns navegadores.
+
+- box-sizing: border-box;: Define o modelo de caixa dos elementos como "border-box", o que significa que o tamanho total do elemento é calculado incluindo a largura e altura do conteúdo, além das bordas e preenchimento. Isso evita que as bordas e preenchimento adicionem espaço extra ao tamanho do elemento, tornando mais fácil trabalhar com tamanhos predefinidos.
+
+Essas regras têm como objetivo normalizar o comportamento padrão dos elementos HTML, evitando surpresas e inconsistências entre diferentes navegadores e ajudando os desenvolvedores a começar com uma base consistente. Isso permite que os estilos personalizados aplicados posteriormente sejam mais previsíveis e consistentes em várias plataformas e dispositivos. O uso de um CSS Reset ou Normalize é uma prática comum no desenvolvimento web para estabelecer uma base sólida antes de estilizar a página de forma mais específica para cada projeto.

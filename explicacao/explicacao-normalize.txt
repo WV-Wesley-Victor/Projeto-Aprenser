@@ -1,0 +1,17 @@
+O normalize.css é um arquivo CSS que serve como uma folha de estilos para normalizar a aparência e comportamento dos elementos HTML em diferentes navegadores. Ele foi desenvolvido para corrigir inconsistências entre os navegadores e fornecer uma base consistente para o desenvolvimento web, tornando mais fácil para os desenvolvedores criarem sites que tenham uma aparência e comportamento mais previsíveis em diferentes plataformas e dispositivos.
+
+Ao contrário de um arquivo CSS tradicional que define estilos específicos para elementos HTML, o normalize.css não adiciona estilos personalizados ou estiliza os elementos, mas sim redefine o estilo padrão dos elementos HTML para que todos os navegadores sigam um conjunto comum de regras. Isso ajuda a reduzir as diferenças entre os estilos padrão dos navegadores, criando uma base mais uniforme para o desenvolvimento.
+
+Alguns dos principais objetivos do normalize.css incluem:
+
+- Resets: O normalize.css redefine estilos iniciais de muitos elementos HTML, como removendo margens e preenchimentos padrão e zerando valores de dimensionamento, como largura e altura, para garantir que todos os elementos tenham um comportamento mais consistente.
+
+- Uniformidade: Ele procura criar uma experiência visual mais uniforme entre diferentes navegadores, corrigindo pequenas discrepâncias que podem existir nos estilos padrão de elementos.
+
+- Compatibilidade: O normalize.css é projetado para ser compatível com a maioria dos navegadores modernos e antigas versões, garantindo que a normalização funcione de forma consistente em várias plataformas.
+
+- Preservação da usabilidade: Ao normalizar estilos, o normalize.css não tenta sobrescrever estilos úteis ou corrigir questões de design específicas. Em vez disso, ele se concentra em garantir que as regras básicas sejam consistentes e previsíveis.
+
+- Ajustes responsivos: O normalize.css também inclui alguns ajustes para melhorar a experiência em dispositivos móveis e em tamanhos de tela diferentes, tornando a página mais responsiva.
+
+O uso do normalize.css é uma prática comum no desenvolvimento web, pois fornece uma base sólida para estilos consistentes e ajuda a evitar problemas de compatibilidade entre navegadores. Ele não substitui a estilização específica necessária para cada projeto, mas estabelece uma fundação consistente para o desenvolvimento. Com isso, os desenvolvedores podem ter mais confiança de que seus estilos serão aplicados de forma consistente em diferentes ambientes de navegação.

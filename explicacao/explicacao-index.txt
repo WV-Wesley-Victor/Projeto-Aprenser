@@ -1,0 +1,26 @@
+Este código HTML cria uma página de site chamado "Aprenser". Vamos explicar o código em detalhes:
+
+- <meta> tags: Essas tags fornecem metadados para o navegador, como o conjunto de caracteres usado na página e configurações de escala para dispositivos móveis.
+
+- <title>: Define o título da página, que será exibido na aba do navegador ou na barra de título.
+
+- <link> tags: Essas tags são usadas para importar folhas de estilo externas para a página. Neste caso, há três links:
+
+    normalize.css: uma folha de estilo que normaliza o comportamento dos elementos HTML em diferentes navegadores, garantindo uma aparência mais consistente.
+    estilo.css: uma folha de estilo personalizada para o site "Aprenser".
+
+- <body>: Contém todo o conteúdo visível da página.
+
+- <div> tags: Essas tags são usadas para criar contêineres ou seções da página com classes específicas, como "wrapperContainer", "wrapperContainer-dark", etc. Essas classes provavelmente têm estilos associados a elas em um arquivo CSS para controlar a aparência dessas seções.
+
+- <header>: Representa o cabeçalho da página que contém um logotipo e uma barra de navegação. A barra de navegação contém uma lista não ordenada de itens de menu, cada um dos quais é um link (<a>) que aponta para âncoras na página usando o atributo href="#nome_da_secao".
+
+- <section>: Representa uma seção da página, como a seção principal de destaque ("heroBanner") e outras seções como "cursos" e "contatos". Cada seção possui classes associadas a ela, como "container" para definir uma largura máxima e centralizar o conteúdo.
+
+- <h1>, <h2>, <h3>, <p>, <a>, <img>, <iframe>, <address>: Essas são tags HTML usadas para criar títulos, parágrafos, links, imagens, vídeos embutidos, informações de contato e muito mais.
+
+- <iframe>: É usado para incorporar um mapa do Google (Google Maps) na página, mostrando a localização do endereço especificado.
+
+- <footer>: Representa o rodapé da página que contém informações de autoria, neste caso, um link para o perfil GitHub do autor.
+
+Em resumo, esse código HTML cria uma página de site "Aprenser" com um cabeçalho que contém um logotipo e uma barra de navegação, uma seção principal de destaque, seções de "cursos", "nossa escola" e "contatos", além de um rodapé com informações de autoria. As seções são estilizadas usando classes específicas que provavelmente estão definidas em um arquivo CSS vinculado à página.

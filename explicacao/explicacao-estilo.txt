@@ -1,0 +1,41 @@
+Este código é um arquivo CSS que define os estilos visuais para a página do site "Aprenser". Vamos explicar os principais estilos e suas classes associadas:
+
+- :root: Define variáveis globais CSS, nesse caso, a variável --primary-color é definida com a cor #fed001, que será usada como a cor principal em vários elementos.
+
+- html: Define estilos para o elemento <html>, como a fonte padrão, que é a fonte "Inter" com um peso de 400 (normal) e um tamanho de 62.5% (o que equivale a 10px, pois 62.5% de 16px, o tamanho padrão do navegador, é 10px).
+
+- p, a: Define estilos para parágrafos (<p>) e links (<a>), onde ambos têm um tamanho de fonte de 1.6rem (equivalente a 16px).
+
+- h1, h2, h3: Define estilos para títulos de diferentes níveis (<h1>, <h2>, <h3>), onde os tamanhos de fonte são especificados como 4.8rem (48px), 4rem (40px) e 3.2rem (32px), respectivamente.
+
+- nav a: Define estilos para os links (<a>) dentro de elementos de navegação (<nav>), herdando a cor do texto do elemento pai.
+
+- .upper: Define um estilo para o texto transformado em letras maiúsculas (uppercase).
+
+- .btn: Define estilos para um botão com fundo da cor definida pela variável --primary-color, borda arredondada, tamanho de fonte de 1.8rem (18px), espaçamento interno de 1.6rem vertical e 4.6rem horizontal, e cor do texto herdada do elemento pai.
+
+- .wrapperContainer: Define estilos para contêineres gerais, que provavelmente são usados para agrupar seções da página. Pode haver diferentes variantes como wrapperContainer-dark, wrapperContainer-light, etc., para definir diferentes cores de fundo.
+
+- .container: Define estilos para contêineres com uma largura máxima de 127.6rem (1276px) e centralizados horizontalmente na página.
+
+- .section_title, .section_btn: Define estilos para títulos de seção e botões de seção, respectivamente, com espaçamentos e alinhamentos específicos.
+
+- .header, .header_nav: Define estilos para o cabeçalho da página e a barra de navegação dentro do cabeçalho.
+
+- .wrapperContainer-hero: Define estilos para um contêiner específico que provavelmente contém o banner de destaque ("heroBanner") na página.
+
+- .heroBanner: Define estilos para o banner de destaque com espaçamentos, alinhamento de conteúdo e layout flex.
+
+- .cursos, .cursosContainer, .curso_card: Define estilos para a seção de cursos e os cartões de cursos, com espaçamentos e layout flex.
+
+- .escola: Define estilos para a seção "Nossa escola", com espaçamentos e layout flex.
+
+- .escola_title: Define estilos para o título da seção "Nossa escola".
+
+- .contatos_address: Define estilos para o endereço de contato com alinhamento à direita e tamanho de fonte específico.
+
+- .footer: Define estilos para o rodapé da página, com tamanho de fonte e alinhamento central.
+
+- .footer a: Define estilos para os links dentro do rodapé.
+
+Esses estilos ajudam a criar uma aparência coesa e agradável para o site "Aprenser" com a combinação de cores, tamanhos de fonte, espaçamentos e layout flexível.
