@@ -14,6 +14,17 @@ O repositório no GitHub apresenta um projeto prático de landing page criada co
 * Estilização CSS: Explore técnicas de estilização CSS para personalizar a aparência da landing page, aplicando cores, estilos de texto e espaçamento adequados para atrair a atenção dos visitantes.
 * Call-to-Action: Aprenda a criar elementos de chamada para ação (call-to-action) para incentivar os visitantes a realizar a ação desejada, como se inscrever em uma newsletter ou comprar um produto.
 
+## Fontes de Pesquisa
+* Unbounce Blog: https://unbounce.com/blog/
+* HubSpot Academy: https://academy.hubspot.com/
+* W3Schools: https://www.w3schools.com/
+* Bootstrap Documentation: https://getbootstrap.com/docs/5.0/getting-started/introduction/
+* LanderApp Blog: https://www.landerapp.com/blog
+* Smashing Magazine: https://www.smashingmagazine.com/
+* Awwwards: https://www.awwwards.com/
+* Behance: https://www.behance.net/
+* Dribbble: https://dribbble.com/
+
 ## Instruções de Instalação (caso aplicável)
 Este projeto é uma landing page pronta, não requerendo instalação local. Basta acessar o URL fornecido e explorar a página.
 
